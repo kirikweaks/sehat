@@ -12,4 +12,5 @@ $client_secret = "tEMaoQ_x4FMgZrIID3EHaUJV"; // Enter your client_secret
 
 $login_url = "https://accounts.google.com/o/oauth2/v2/auth?scope=$scope&response_type=code&redirect_uri=$redirect_uri&client_id=$client_id"; // Do not change it!
 
+$api= "AIzaSyBzJlfdRMdRoPdBBER9DN5f8eX_-7Yv06c";
 ?>
